@@ -14,7 +14,7 @@ The website relies on the following external dependencies:
 - Font Awesome (v6.5.1)
 - Google Fonts - Montserrat
 
-##languages
+## languages
 - HTML5
 - CSS3
 - Bootstrap5
