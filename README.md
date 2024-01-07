@@ -1,6 +1,9 @@
 # Landerz-website-responsive-project
 Welcome to the GitHub repository of Landerz - a modern and responsive landing page website. This repository contains the source code and assets for the website.
 
+### Live Demo
+ https://sohilayasser24.github.io/Landerz-website-responsive-project/
+
 ## Features
 - Responsive Design: The website is designed to be responsive and accessible on various devices.
 - Navigation: Includes a navigation bar with smooth scrolling to different sections.
